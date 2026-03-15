@@ -1,8 +1,3 @@
-new file mode 100644
-index 0000000000000000000000000000000000000000..b02ec08f8d812583928d644c3a72ea835fb6984d
---- /dev/null
-+++ b/app.py
-@@ -0,0 +1,478 @@
 +import os
 +import time
 +from pathlib import Path
